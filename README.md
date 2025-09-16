@@ -1,5 +1,9 @@
 <!-- h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1 -->
 <h1>Hi, I'm Khim! </h1>
+<h2>👨‍💻 Documentation:</h2>
+
+- <b>Doc Project 1</b>
+  - [Doc Project 1](https://github.com/khim39784/Doc-Project-1)
 <h2>👨‍💻 Programs:</h2>
 
 - <b>Java</b>
