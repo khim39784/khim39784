@@ -3,7 +3,7 @@
 <h2>👨‍💻 Documentation:</h2>
 
 - <b>Doc Project 1</b>
-  - [Doc Project 1](https://github.com/khim39784/Doc-Project-1)
+  - [Grant Accounting for Allocation Pool Transactions](https://github.com/khim39784/Doc-Project-1)
 <h2>👨‍💻 Programs:</h2>
 
 - <b>Java</b>
