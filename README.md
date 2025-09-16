@@ -11,7 +11,7 @@
 - <b>Javascript</b>
   - [Hello-JS-World](https://github.com/khim39784/hello-js-world)
 - <b>Python</b>
-  - [Python Programs](https://github.com/khim39784/Spotify))
+  - [Python Programs](https://github.com/khim39784/Spotify)
 
 <h2>📺 Popular YouTube Videos</h2>
 
