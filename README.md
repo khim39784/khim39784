@@ -9,7 +9,7 @@
 - <b>Java</b>
   - [Praciting DS & Algos in Python](https://github.com/khim39784/Algorithms-Practice)
 - <b>Javascript</b>
-  - [Hello-JS-World](https://github.com/khim39784/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Hello-JS-World](https://github.com/khim39784/hello-js-world)
 - <b>Python</b>
   - [Spotify](https://github.com/khim39784/Spotify))
 
