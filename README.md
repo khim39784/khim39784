@@ -1,6 +1,6 @@
 <!-- h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1 -->
 <h1>Hi, I'm Khim! </h1>
-<h3>I create documentation that's clear and helpful to users. I take a hands-on approach in testing new functionalities from setup to tear-down. I strive to understand user pain points and write to address them, increasing the uptake in new features.</h3>
+<h3>I create documentation that's clear and helpful to users. I take a hands-on approach in testing new functionalities from setup to tear-down. I strive to understand user pain points and write to address them, making new features easier to adopt.</h3>
 <h2>👨‍💻 Documentation:</h2>
 
 - <b>Doc Project 1</b>
